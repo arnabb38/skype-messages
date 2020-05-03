@@ -16,7 +16,9 @@ Environment Used
 
 How to Run
 ---
-Ensure the above prerequisites. Run ***software-network-script.sh*** from the Terminal. Ensure **Execute Permission** if needed.
+> * Ensure the above prerequisites. 
+> * Run ***software-network-script.sh*** from the Terminal. 
+> * Ensure **Execute Permission** if needed.
 
 Future Work
 ---
@@ -24,4 +26,4 @@ Future Work
 > * Merge both **.xlsx** files as a single sheet with different worksheet. *(Couldn't possible in this version due to some version complexity)*
 ---
 
-# Thank You
+# Thank You! :)
