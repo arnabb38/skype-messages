@@ -1,18 +1,20 @@
 # Skype Messages Handling (JSON)
 
+## $HELL $CRIPTING! 
+
 Prerequisite
 ---
 > * Need to add **'jq'** package.
 > * **jq** is used as JSON processor through Terminal.
->> * ***"sudo apt-get install jq"***
+>> ***"sudo apt-get install jq"***
 
 Environment Used
 ---
 > * Ubuntu 19.10
 > * JQ - jq-1.5-1-a5b5cbe
-> * GNU Sed (v4.7) *(Default)*
-> * Perl (v5.28) *(Default)*
-> * GNU Awk (v4.2.1) *(Default)*
+> * GNU Sed (v4.7) - *(Default)*
+> * Perl (v5.28) - *(Default)*
+> * GNU Awk (v4.2.1) - *(Default)*
 
 How to Run
 ---
